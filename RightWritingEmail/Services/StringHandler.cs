@@ -107,7 +107,7 @@ namespace RightWritingEmail.Services
         private bool CheckDomain(string str)
         {
             if (IsReservedDomain(str) && IsRightUsingHyphen(str) &&
-                IsRightUsingUnderscore(str)) { return true; }
+                IsRightUsingUnderscore(str) && IsAllowedSymbols(str)) { return true; }
             return false;
         }
         private bool CheckLocalPart(string str)

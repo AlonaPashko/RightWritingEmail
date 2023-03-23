@@ -27,4 +27,5 @@ example-indeed@strange-example.com
 "john..doe"@gmail.org
 this\ still\"not\\allowed@maul.com
 i_like_underscore@mail.ua
+file@hfdk&&.com
 
