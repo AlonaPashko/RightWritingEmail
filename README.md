@@ -20,4 +20,5 @@ than standart length (the meaning of the standart length fixed as a const),
 - in the quotation the not allowed symbols allowed,
 - when the local part has a dot, this dot must be used correctly.
 
-The program has an entry point - standard method main in class program.
+The program has an entry point - standard method main in class program. The results of program prints on the console
+with help of static PrintList method in the static class Print.
