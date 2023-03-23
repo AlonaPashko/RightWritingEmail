@@ -4,10 +4,27 @@ ahjk.com
 csajhio@gmail.com
 %^%yfh77.pl
 x@example.com
-A@b@c@example.com
-just"not"right@example.com
-this is"not\allowed@example.com
-i_like_underscore@but_its_not_allow_in _this_part.example.com
-fully-qualified-domain@example.com
-very.common@example.com
+A@b@c@mail.com
+i_like_underscore@but_its_not_allow_in _this_part.mail.com
+veryl@example.com
+a"b(c)d,e:f;g<h>i[j\k]l@example.com
+1234567890123456789012345678901234567890123456789012345678901234+x@example.com
+" "@dmail.org
+just"not"right@fail.com
+blabla"bla@hail.ua
+"HAsjhcuiashu"@fail.com
+John..Do@fail.com
+.haha@mail.ua
+cjsh.@mail.pl
+vg.vg@mail.pl
+hgygu.hg@bh-
+gvgu.ggh@gh-gh.by
+john.smith@(comment)mail.com
+john.smith@mail.com(comment)
+disposable.style.email.with+symbol@mail.com
+other.email-with-hyphen@mail.com
+example-indeed@strange-example.com
+"john..doe"@gmail.org
+this\ still\"not\\allowed@maul.com
+i_like_underscore@mail.ua
 

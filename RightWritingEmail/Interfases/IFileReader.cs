@@ -8,6 +8,6 @@ namespace RightWritingEmail.Interfases
 {
     internal interface IFileReader
     {
-        public void ReadExpression();
+        public List<string> ReadExpression();
     }
 }
